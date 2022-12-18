@@ -1,0 +1,21 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:syncfusionskin1="http://materialdesigninxaml.net/winfx/xaml/themes">
+
+    <SolidColorBrush x:Key="background" Color="White"/>
+    <SolidColorBrush x:Key="border" Color="HotPink"/>
+    <SolidColorBrush x:Key="back1" Color="HotPink"/>
+    <SolidColorBrush x:Key="fontColor" Color="Black"/>
+    <SolidColorBrush x:Key="infoColor" Color="#FF979696"/>
+    <Color x:Key="startColor">#ff69b4</Color>
+    <Color x:Key="endColor">#5153e6</Color>
+
+    <Color x:Key="dashboardStartColor" >#FF765757</Color>
+    <Color x:Key="dashboardEndColor">#FF38252F</Color>
+    <SolidColorBrush x:Key="dashboardHeadingBackground" Color="#FF2E293F"></SolidColorBrush>
+    <syncfusionskin1:Theme x:Key="comboBoxTheme" x:Name ="MaterialDarkBlue"/>
+
+    <SolidColorBrush x:Key="buttonBackground" Color="#b40356"></SolidColorBrush>
+    <Color x:Key="buttonBorderBrush"></Color>
+
+</ResourceDictionary>

@@ -1,0 +1,15 @@
+1. Podrška za različite tipove korisničkih naloga
+   
+Implementirana su dva tipa korisničnih naloga, zaposleni i kupac.
+
+2. Internacionalizacija
+
+Podržana su dva jezika, Srpski i Engleski.
+
+3. Korisnička podešavanja
+
+Podržan je odabir 3 teme, tamna, svijetla, i plava.
+
+4. Korisničko uputstvo
+
+Kreirano je uputstvo u .pdf fajlu za krajnjeg korisnika.

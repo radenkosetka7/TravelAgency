@@ -1,0 +1,67 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="login">Login</system:String>
+    <system:String x:Key="dark">Dark</system:String>
+    <system:String x:Key="light">Light</system:String>
+    <system:String x:Key="blue">Blue</system:String>
+    <system:String x:Key="serbian">Serbian</system:String>
+    <system:String x:Key="english">English</system:String>
+    <system:String x:Key="username">Username</system:String>
+    <system:String x:Key="loginbutton">Login</system:String>
+    <system:String x:Key="agency">Travel agency</system:String>
+    <system:String x:Key="menu">Menu</system:String>
+    <system:String x:Key="myprofile">My profile</system:String>
+    <system:String x:Key="logout">Logout</system:String>
+    <system:String x:Key="reservations">Reservations</system:String>
+    <system:String x:Key="shoppings">Shoppings</system:String>
+    <system:String x:Key="arrangements">Arrangements</system:String>
+    <system:String x:Key="addarrangement">Add an arrangement</system:String>
+    <system:String x:Key="myreservations">My reservations</system:String>
+    <system:String x:Key="myshoppings">My shoppings</system:String>
+    <system:String x:Key="arrangementdetails">About arrangement</system:String>
+    <system:String x:Key="city">City</system:String>
+    <system:String x:Key="country">Country</system:String>
+    <system:String x:Key="description">Description</system:String>
+    <system:String x:Key="departureday">Departure date</system:String>
+    <system:String x:Key="returndate">Return date</system:String>
+    <system:String x:Key="price">Price</system:String>
+    <system:String x:Key="numofseats">Number of seats</system:String>
+    <system:String x:Key="edit">Edit</system:String>
+    <system:String x:Key="delete">Delete</system:String>
+    <system:String x:Key="save">Save</system:String>
+    <system:String x:Key="buybutton">Buy</system:String>
+    <system:String x:Key="reservebutton">Reserve</system:String>
+    <system:String x:Key="addanarrangement">Add an arrangement</system:String>
+    <system:String x:Key="addanimage">Add an image</system:String>
+    <system:String x:Key="shopping">Shopping</system:String>
+    <system:String x:Key="reservation">Reservation</system:String>
+    <system:String x:Key="arrangementname">Arrangement name</system:String>
+    <system:String x:Key="jmbg">JMBG of customer</system:String>
+    <system:String x:Key="quantity">Quantity</system:String>
+    <system:String x:Key="reservationdate">Date of reservation</system:String>
+    <system:String x:Key="name">Name</system:String>
+    <system:String x:Key="surname">Surname</system:String>
+    <system:String x:Key="dateofbirth">Datum of birth</system:String>
+    <system:String x:Key="email">Email</system:String>
+    <system:String x:Key="telephone">Telephone</system:String>
+    <system:String x:Key="password">Password</system:String>
+    <system:String x:Key="customerreservation">Customer reservation</system:String>
+    <system:String x:Key="customershopping">Customer shopping</system:String>
+    <system:String x:Key="areyousure">Are you sure?</system:String>
+    <system:String x:Key="insertusername">Insert an username</system:String>
+    <system:String x:Key="insertpass">Insert a password</system:String>
+    <system:String x:Key="invalidcredentials">Invalid credentials</system:String>
+    <system:String x:Key="arrangementid">arrangementId</system:String>
+    <system:String x:Key="back">Back</system:String>
+    <system:String x:Key="user">User</system:String>
+    <system:String x:Key="finishreservation">Finish reservation?</system:String>
+    <system:String x:Key="finishshopping">Finish shopping?</system:String>
+    <system:String x:Key="makereservation">Make a reservation</system:String>
+    <system:String x:Key="makepurchase">Make a purchase</system:String>
+    <system:String x:Key="search">Search</system:String>
+    <system:String x:Key="incorrectinput">Incorrect input</system:String>
+
+
+</ResourceDictionary>
